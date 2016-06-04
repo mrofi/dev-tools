@@ -6,9 +6,7 @@
         "php": ">=5.4.16",
         "ext-intl": "*",
         "ext-mbstring": "*",
-        "fabpot/php-cs-fixer": "^1.11"
-    },
-    "require-dev": {
+        "friendsofphp/php-cs-fixer": "dev-master",
         "phpunit/phpunit": "4.*",
         "squizlabs/php_codesniffer": "^2.3.1",
         "phpmd/phpmd": "2.*",
