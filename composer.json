@@ -1,0 +1,22 @@
+{
+    "name": "mrofi/dev-tools",
+    "description": "tool for developing",
+    "type": "library",
+    "require": {
+        "php": ">=5.4.16",
+        "ext-intl": "*",
+        "ext-mbstring": "*",
+        "fabpot/php-cs-fixer": "^1.11"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "4.*",
+        "squizlabs/php_codesniffer": "^2.3.1",
+        "phpmd/phpmd": "2.*",
+        "cakephp/cakephp-codesniffer": "dev-master",
+        "phpspec/phpspec": "*",
+        "codeception/codeception": "*",
+        "pragmarx/laravelcs": "*"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
